@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule>
+    <BI-101>
+        <Friday>
+            <Pair num="1" audience="124/1" teacher="доц. Беляева А.С">Информационные технологии (23-39)</Pair>
+            <Pair num="1" audience="121/1" teacher="доц. Шамсутдитова Т.М.">Информационные системы (23-39)</Pair>
+            <Pair num="2" audience="121/1" teacher="доц. Беляева А.С">Информационные технологии (23-39)</Pair>
+            <Pair num="2" audience="124/1" teacher="доц. Шамсутдитова Т.М.">Информационные системы (23-39)</Pair>
+            <Pair num="3" audience="430/1" teacher="доц. Доценко Е.А.">ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ (22,23)</Pair>
+        </Friday>
+    </BI-101>
+</schedule>
